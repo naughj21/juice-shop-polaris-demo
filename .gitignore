@@ -67,3 +67,6 @@ config/*.yml
 
 # System Files
 .DS_Store
+
+# Local Black Duck / Code Sight data
+.codesight/
