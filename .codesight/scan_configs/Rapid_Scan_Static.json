@@ -1,0 +1,38 @@
+{
+  "configId": {
+    "id": "0346e47a-8b3c-42ad-a9c8-35947b25efb7"
+  },
+  "scanType": {
+    "type": 3,
+    "name": "Rapid Scan Static",
+    "description": "Runs a fast static analysis of your source code. Ideal for quick feedback during development."
+  },
+  "sigmaConfig": {
+    "installationLocation": {
+      "source": {
+        "type": 8
+      }
+    },
+    "additionalArguments": {
+      "source": {
+        "type": 8
+      }
+    }
+  },
+  "bridgeConfig": {},
+  "buildConfig": {},
+  "workingDirectory": {
+    "value": "/Users/naughtonjm/Desktop/Professional/Employment Search/Black Duck/Juice Shop Polaris Demo/juice-shop-polaris-demo",
+    "source": {
+      "type": 8
+    }
+  },
+  "scanMode": {
+    "name": "All Files"
+  },
+  "path": {
+    "source": {
+      "type": 8
+    }
+  }
+}
